@@ -5,10 +5,13 @@
   "languageVariety": {
     "en": "en-US",
     "de": "de-DE",
-    "pt": "pt-PT",
+    "pt": "pt-BR",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "container",
+    "snapshot"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
