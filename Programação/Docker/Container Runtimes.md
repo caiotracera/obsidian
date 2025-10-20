@@ -1,0 +1,1 @@
+Um Container Runtime é um software que permite a execução de um [[Containers|container]]. Ou seja, ele tem todas as especificações necessárias para que um container possa ser executado.
