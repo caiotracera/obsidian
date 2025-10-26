@@ -1,0 +1,1 @@
+O CSS (Cascading Style Sheets) é utilizado para definir o estilo do [[HTML|documento]], como cor de texto, tamanho do texto, tamanho da imagem, posição do conteúdo, cor de fundo, sombras e mais.

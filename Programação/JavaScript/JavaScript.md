@@ -1,0 +1,1 @@
+O JavaScript é uma linguagem de programação, utilizado para alterar o comportamento do [[HTML|documento]] de forma dinâmica, como modificar o estilo, criar galerias de imagens, observar as ações do usuário, puxar informações de outros sites, manipular dados e mais.
