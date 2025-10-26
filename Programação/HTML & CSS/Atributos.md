@@ -1,0 +1,1 @@
+Os atributos de uma [[Tags|tag]] dão informações extras sobre essa tag para o browser. Como, por exemplo, na tag `<a>`, precisamos fornecer o atributo `href`, por exemplo, para indicar para onde o usuário será enviado ao interagir com o link.
